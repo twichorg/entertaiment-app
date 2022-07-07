@@ -27,8 +27,6 @@ const EventList = () => {
         className='search'
         onChange={handleOnChange}
          />
-
-        
         </form>
     </header>
     
